@@ -1,2 +1,2 @@
 # schiphol-client
-A Node.js wrapper for Schiphol API
+A Node.js wrapper for Schiphol Flight API

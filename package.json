@@ -1,0 +1,24 @@
+{
+  "name": "schiphol-client-js",
+  "version": "1.0.0",
+  "description": "A Node.js wrapper for Schiphol API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiujieti/schiphol-client-js.git"
+  },
+  "keywords": [
+    "Schiphol",
+    "flight",
+    "API"
+  ],
+  "author": "Mengqi Yang <melody2014ymq@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiujieti/schiphol-client-js/issues"
+  },
+  "homepage": "https://github.com/jiujieti/schiphol-client-js#readme"
+}
