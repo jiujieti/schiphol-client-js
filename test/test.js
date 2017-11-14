@@ -19,3 +19,17 @@ var client = new Client('f0fa0a19', '136dd9a4ce628d307cb0fbbc89df8c66');
 // client.findOneFlightById(123063231720956892).then((data) => {console.log(data)}); 
 
 // client.findOneFlightById().then((data) => {console.log(data)}).catch((e) => {console.log(e)}); 
+
+// client.findDestinations().then((data) => {
+//   console.log(data);
+// }).catch((error) => {
+//   console.log(error);
+// });
+
+// client.findOneDestinationByIATA('AMS').then(data => {console.log(data);});
+
+// client.findAircraftTypes().then(data => {console.log(data);});
+
+// client.findAirlines().then(data => {console.log(data);});
+
+// client.findOneAirlineByAirlineCode('JP').then(data => {console.log(data);});
