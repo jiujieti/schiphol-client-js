@@ -2,7 +2,7 @@
   "name": "schiphol-client-js",
   "version": "1.0.0",
   "description": "A Node.js wrapper for Schiphol API",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "mocha --reporter spec"
   },
