@@ -38,11 +38,11 @@ For all possible parameters, please check [here](https://developer.schiphol.nl/a
 
 ### client.findOneFlightById(id)
 
-Retrieve one flight by its ID. The input ID is mandatory for this function, either a string or a number.  
+Retrieve one flight by its ID. The input ID is mandatory for this function and should be a string.  
 
 ### client.findOneCodeshare(id, flightName)
 
-Retrieve a codeshare by the ID and the name of a flight. Both input parameters are mandatory. The ID is either a string or a number and the flightName should be a string.
+Retrieve a codeshare by the ID and the name of a flight. Both input parameters are mandatory. The ID is a string and the flightName should be a string.
 
 ### client.findDestinations(params)
 

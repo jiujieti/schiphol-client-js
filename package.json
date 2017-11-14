@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/jiujieti/schiphol-client-js/issues"
   },
-  "homepage": "https://github.com/jiujieti/schiphol-client-js#readme"
+  "homepage": "https://github.com/jiujieti/schiphol-client-js#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "nock": "^9.1.0"
+  }
 }
