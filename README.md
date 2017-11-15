@@ -1,4 +1,6 @@
 # schiphol-client-js
+[![Build Status on Travis](https://travis-ci.org/jiujieti/schiphol-client-js.svg?branch=master)](https://travis-ci.org/jiujieti/schiphol-client-js)
+
 A Node.js wrapper for Schiphol Flight API. For more details about the Schiphol Flight API, you can always refer to [here](https://developer.schiphol.nl/). This wrappers contains both v1 and v3 version endpoints from the API.
 
 ## Usage
