@@ -21,6 +21,11 @@ client.findFlights().then((data) => {
 });
 ```
 
+To run the tests:
+```sh
+npm test
+```
+
 ## API
 
 Note that for all the following ```params```, all parameters should be wrapped in a object and passed to the API. 
