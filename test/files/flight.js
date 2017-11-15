@@ -1,4 +1,4 @@
-{
+module.exports = {
   "id": 999999999999999999,        
   "flightName": "AA9999",
   "scheduleDate": "2000-11-11",

@@ -1,4 +1,4 @@
-{
+module.exports = {
   "iata":"BB",
   "icao":"BBB",
   "publicName":"Air Bear",

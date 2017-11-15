@@ -1,4 +1,4 @@
-{
+module.exports = {
   "iata": "BBB",
   "country": "Bunnyland",
   "city": "funny",
