@@ -1,6 +1,6 @@
 {
   "name": "schiphol-client-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Node.js wrapper for Schiphol API",
   "main": "./lib/index.js",
   "scripts": {
