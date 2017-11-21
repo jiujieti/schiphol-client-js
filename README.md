@@ -12,7 +12,7 @@ npm install schiphol-client-js --save
 To use the client, first import the package and call a query as follows. Each query will return a promise for further chaining.
 
 ```javascript
-var client = require('schiphol-client-js');
+var Client = require('schiphol-client-js');
 
 var client = new Client('yourAppId', 'yourAppKey');
 
